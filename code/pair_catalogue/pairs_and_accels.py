@@ -25,18 +25,12 @@ import myUnitsCopy1 as myU # customized library for units. All dimensional varia
 # In[2]:
 
 
-#edr3_data = './edr3_data'
-#dr2_data = './dr2_data'
-#hist_res_dir = './hist_stats/'
-edr3_data = '/Users/crimondino/Dropbox (PI)/MyLensVelocity2/data/acc_catalog/edr3/'
-dr2_data = '/Users/crimondino/Dropbox (PI)/MyLensVelocity2/data/acc_catalog/dr2/'
-hist_res_dir = '/Users/crimondino/Dropbox (PI)/MyLensVelocity2/lists/hist_stats/'
-
-
-# In[3]:
-
-
-current_index=0
+edr3_data = './edr3_data'
+dr2_data = './dr2_data'
+hist_res_dir = './hist_stats/'
+#edr3_data = '/Users/crimondino/Dropbox (PI)/MyLensVelocity2/data/acc_catalog/edr3/'
+#dr2_data = '/Users/crimondino/Dropbox (PI)/MyLensVelocity2/data/acc_catalog/dr2/'
+#hist_res_dir = '/Users/crimondino/Dropbox (PI)/MyLensVelocity2/lists/hist_stats/'
 
 
 # In[5]:
