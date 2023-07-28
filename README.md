@@ -1,5 +1,5 @@
 # lens-velocity
-Code repository for the paper **Astrometric Weak Lensing Constraints on Dark Matter Substructure with Gaia DR3** by Cristina Mondino, Anna-Maria Taki, Andreas Tsantilas, Ken Van Tilburg, and Neal Weiner.
+Code repository for the paper **Astrometric Weak Lensing Constraints on Dark Matter Substructure with Gaia DR3** by Cristina Mondino, Anna-Maria Taki, Andreas Tsantilas, Ken Van Tilburg, and Neal Weiner. Accompanying data files are hosted at [https://users.flatironinstitute.org/~kvantilburg/lens-velocity/](https://users.flatironinstitute.org/~kvantilburg/lens-velocity/).
 
 ## Abstract
 
