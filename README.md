@@ -27,7 +27,23 @@ The [code](code/) folder contains various Jupyter notebooks that reproduce the p
 
 If you use this code, please cite our paper:
 ```
-[put Bibtex here]
+@ARTICLE{mondino-2023,
+       author = {{Mondino}, Cristina and {Tsantilas}, Andreas and {Taki}, Anna-Maria and {Van Tilburg}, Ken and {Weiner}, Neal},
+        title = "{Astrometric weak lensing with Gaia DR3 and future catalogues: searches for dark matter substructure}",
+      journal = {\mnras},
+     keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies, High Energy Physics - Phenomenology},
+         year = 2024,
+        month = jun,
+       volume = {531},
+       number = {1},
+        pages = {632-648},
+          doi = {10.1093/mnras/stae1017},
+archivePrefix = {arXiv},
+       eprint = {2308.12330},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.531..632M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 ```
 and you may want to refer to the original papers:
 ```
